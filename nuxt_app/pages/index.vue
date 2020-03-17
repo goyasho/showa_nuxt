@@ -3,7 +3,7 @@
     <h1>{{title}}</h1>
     <p>{{message}}</p>
     <hr>
-    <pre>[{{now}}]</pre>
+    <router-link to="/other">Go to Other</router-link>
   </section>
 </template>
 
